@@ -11,5 +11,5 @@ console.log("lety =",y);
 //const example
 
 const c = 6;
-//cannot be reassigned
+//cannot be reassigned//
 console.log("const= " ,c);
